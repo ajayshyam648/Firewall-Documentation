@@ -6,6 +6,8 @@
   ![Fig 1.](firewall.jpg)
   <center>Fig 1.</center>
 
+> There are many definitions in different different platforms/blogs. And all have the same meanings , the only thing is that what we understand and how clear it was.
+
 In simple words, firewall's main purpose is to allow non-threatening traffic/messages in and to keep dangerous traffic out.
 
 
