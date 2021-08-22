@@ -1,0 +1,19 @@
+body{
+    font-style: italic;
+    font-size: 20px;
+}
+h1,h2
+{
+    color: rgb(214, 45, 45) !important;
+}
+
+h3{
+    color: #03505e;
+}
+center{
+    font-size: 18;
+}
+.tt{
+    font-size: 20px;
+    color: rgb(44, 74, 109);
+}
