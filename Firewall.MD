@@ -1,6 +1,6 @@
 
  
- # **Introduction**
+ ># **Introduction**
   **Firewall** is a software or a code or a piece of hardware which are implemented to protect against attacks that hamper   our resources including data over the network. It is used to prevent unauthorized internet users from accesing private networks connected to the internet.
 
   ![Fig 1.](firewall.jpg)
@@ -8,7 +8,8 @@
 
 In simple words, firewall's main purpose is to allow non-threatening traffic/messages in and to keep dangerous traffic out.
 
-## **Why We Need Firewall ?**
+
+>## **Why We Need Firewall ?**
 
 Let's take a scenario, suppose you are going somewhere in the mall. When you reached there, you are going to be entered from the entry gate and there is a sensor as a barrier that is used to detect all metal items like knives, guns, or something else which may come in the use to harm/attack some other. So, while entering with these metal items, a metal detector/barrier will immediately detect and rang a buzzer, it means that you will not be getting allowed inside the mall with such type of things.
 
@@ -16,7 +17,7 @@ The same thing firewall works in computer programs. Firewalls act as a safety ba
 
 So, that's why we need a firewall to protect them.
 
-## **Types of Firewall**
+>## **Types of Firewall**
 
 Firewalls can either be software or hardware, though it’s best to have both. A software firewall is a program installed on each computer and regulates traffic through port numbers and applications, while a physical firewall is a piece of equipment installed between your network and gateway.
 
@@ -36,6 +37,11 @@ Various types of firewell are there :
 
 **<u class="tt"># Stateful Multi-layer Inspection Firewall : -</u>**<div>It is a software that examines/scan/inspects packet headers and IP address, and checks the validity of the connection throughout the session</div> 
 
-## To Know more about in a brief you can go through this various website also which are given below :
+>## To Know more about in a brief you can go through this various website also which are given below :
 
-[JavaTpoint]{https://www.javatpoint.com/firewall}
+- [ JavaTpoint - Firewall](https://www.javatpoint.com/firewall "Click to open")
+- [GeeksForGeeks-Firewall](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/ "click to open")
+- [CheckPoint - Firewall](https://www.checkpoint.com/cyber-hub/network-security/ "click to open")
+- [Tutorials Point- Firewall](https://www.tutorialspoint.com/internet_technologies/firewall_security.htm "click here")
+
+
